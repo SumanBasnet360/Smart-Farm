@@ -84,13 +84,3 @@ This file manages:
 4. **Access Web UI**  
    - After setup, the ESP32 will provide an IP address in the Serial Monitor.
    - Open the IP address in a browser to access the control panel.
-
-## Future Enhancements
-
-- **MQTT Integration for IoT Cloud Control**
-- **Mobile App Interface**
-- **Data Logging & Analytics Dashboard**
-
----
-
-This project is an **open-source** initiative aimed at automating farms using IoT. Contributions & improvements are welcome! 🚀
